@@ -1,8 +1,8 @@
-﻿name,age,country
-a,15,TW
-b,16,TW
-c,20,JP
-d,30,TW
-e,40,JP
-f,16,TW
-g,17,JP
+﻿name,age,country,nameb
+a,15,TW,c
+b,16,TW,c
+c,20,JP,a
+d,30,TW,b
+e,40,JP,d
+f,16,TW,g
+g,17,JP,f
